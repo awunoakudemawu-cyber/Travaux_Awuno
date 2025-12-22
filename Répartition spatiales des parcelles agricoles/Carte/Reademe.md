@@ -2,3 +2,4 @@
 Ce travail illustre ma capacité à produire des données géographiques exploitables, à articuler cartographie et données statistiques, et à répondre à des enjeux concrets liés à l’agriculture et à l’aménagement du territoire en contexte insulaire.
 ## Objectifs: 
 L’objectif de ces travaux était de constituer une base cartographique fiable des parcelles agricoles en Guadeloupe afin d’analyser leur répartition spatiale et leurs caractéristiques. Ce travail visait à structurer et croiser des données spatiales et attributaires pour mieux comprendre les dynamiques agricoles, notamment celles liées aux cultures, aux surfaces et au foncier. Il s’inscrivait également dans une démarche d’aide à la décision, en fournissant des outils cartographiques exploitables pour la planification territoriale, la gestion agricole et les analyses environnementales, tout en renforçant l’usage des SIG comme support d’analyse et de valorisation des territoires.
+## Résultats 
