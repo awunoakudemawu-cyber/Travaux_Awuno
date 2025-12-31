@@ -1,2 +1,11 @@
-# Objectif 
-L’objectif de cette carte est d’identifier, localiser et analyser la répartition spatiale des dépotoirs sauvages dans les communes de Golfe 5 et d’Agoè-Nyivé 1, situées dans l’agglomération de Lomé. Cette analyse vise à mettre en évidence les zones les plus affectées par les dépôts illégaux de déchets, afin de mieux comprendre les enjeux environnementaux, sanitaires et d’aménagement du territoire liés à la gestion des déchets urbains
+# Carte de localisation des dépotoirs sauvages dans les communes Golfe 5 et Agoè-Nyivé 1 (Lomé, Togo)
+## Objectif 
+L’objectif de cette carte est d’identifier, localiser et analyser la répartition spatiale des dépotoirs sauvages dans les communes de Golfe 5 et d’Agoè-Nyivé 1, situées dans l’agglomération de Lomé. Cette analyse vise à mettre en évidence les zones les plus affectées par les dépôts illégaux de déchets, afin de mieux comprendre les enjeux environnementaux, sanitaires et d’aménagement du territoire liés à la gestion des déchets urbains.
+## Méthodes utilisées
+Les données relatives aux dépotoirs sauvages ont été collectées à partir de travaux de terrain, notamment via Google My Maps, puis géolocalisées sous forme de points dans un Système d’Information Géographique (SIG). Les limites administratives des communes ont été intégrées à partir des données de l’INSEED (2022).
+L’ensemble des données a été traité sous QGIS, avec une distinction cartographique claire entre les communes de Golfe 5, d’Agoè-Nyivé 1 et les communes voisines. Une attention particulière a été portée à la lisibilité de la carte (choix des couleurs, symbolisation des dépotoirs, légende, orientation et échelle).
+## Résultats 
+La carte met en évidence une présence significative de dépotoirs sauvages dans les deux communes étudiées, avec une concentration plus marquée dans certains quartiers périphériques et densément peuplés. Dans la commune de Golfe 5, les dépotoirs sont principalement localisés le long des axes secondaires et dans des zones à urbanisation diffuse, suggérant un lien avec un accès limité aux infrastructures formelles de collecte des déchets.
+Dans la commune d’Agoè-Nyivé 1, la répartition apparaît plus dispersée mais reste fortement corrélée aux zones résidentielles et aux espaces non aménagés. Cette distribution spatiale révèle des inégalités territoriales en matière de gestion des déchets et souligne la nécessité de renforcer les politiques publiques de salubrité, de sensibilisation des populations et de planification urbaine durable.
+
+Cette carte illustre l’apport des SIG dans l’analyse spatiale des problématiques environnementales urbaines et constitue un outil d’aide à la décision pour les collectivités locales.
